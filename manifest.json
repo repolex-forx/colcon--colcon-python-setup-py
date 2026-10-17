@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "colcon",
+  "repo": "colcon-python-setup-py",
+  "versions": [
+    {
+      "commit": "2317cc933cfa792c19c2ac4cc88f41e1454b185f",
+      "parsed_at": "2026-10-17T23:19:36.019514+00:00",
+      "filetree": "filetree/2317cc933cfa792c19c2ac4cc88f41e1454b185f.nq.gz",
+      "blobs": [
+        "blob/1a87dccdb39f9e2c7debf17373416738f313afa9.nq.gz",
+        "blob/0f17157ed42b486a0c57cbffddd97987a4844e6b.nq.gz",
+        "blob/c9b3426c1ce606db4a4d832cf6c0d79d20a32388.nq.gz",
+        "blob/52cfada857a437bdc63ba47b0838407f5186de8f.nq.gz",
+        "blob/b7745614eac47ea349fdfc5adcf8a1054ecc3f70.nq.gz",
+        "blob/2555de456750d99e59d1c4a3e0966f5526f90b16.nq.gz",
+        "blob/07c68986fd91c68328ba1da3490ced851ecef726.nq.gz",
+        "blob/99cb7b66f1482ab885a1aa0f6d83c274e4bc58c2.nq.gz",
+        "blob/014c26922a04fe15b3ac51bc1789a1b5fc61cdfb.nq.gz",
+        "blob/bd7c8693b373f16474a10254e75b502ef8389f27.nq.gz",
+        "blob/e82fd0b0abbf1472480d19d468efe7819276e80d.nq.gz",
+        "blob/aa5b2fd887c8cfab65eb72320009f12ac743f2f3.nq.gz",
+        "blob/c4b55c480544c77ea321e84cf7eb60ca023a3858.nq.gz",
+        "blob/dffe460f162da9929178a7ce342532e7ba896425.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/783803ccac92254dfe89aba0c83d33690a2cacc7.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
